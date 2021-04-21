@@ -50,8 +50,7 @@ function draw() {
 	keyPressed();
   rectMode(CENTER);
   rect(packageBody.position.x,packageBody.position.y,200,50);
-  package.x= packageBody.position.x 
-  package.y= packageBody.position.y 
+ 
   drawSprites();
  
 }
